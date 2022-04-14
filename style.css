@@ -1,0 +1,208 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #e5e5e5;
+}
+
+/* MAIN CONTAINER */
+.main-container {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  background-color: #f5f7fa;
+  margin: 40px auto;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* ABOUT ME SECTION */
+.about-me {
+  margin-bottom: 40px;
+}
+.me-prof {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000;
+  margin: 0 0 20px 0;
+}
+.me-name {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 55px;
+  color: #000;
+  margin: 0 0 25px 0;
+}
+.me-desk {
+  width: 400px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+/* MAIN CONTENT SECTION */
+
+.main-content-section {
+  padding: 100px 90px;
+  width: calc(100% - 370px);
+}
+.content-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000;
+  margin-bottom: 10px;
+}
+
+/* PROJECT SECTION */
+.my-projects {
+  margin-bottom: 50px;
+}
+.link-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.work-pos {
+  color: #000;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  margin: 0 0 10px 0;
+}
+.work-time {
+  color: #a8a8a8;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  margin: 0 0 10px 0;
+}
+.duties-list {
+  padding-left: 16px;
+}
+.exp-duties {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+.company-block {
+  margin: 0 15px 0 0;
+}
+.simbol {
+  font-weight: 400;
+  color: #000;
+}
+.prj-list {
+  padding: 0 0 0 18px;
+}
+.numbs-cont {
+  color: #000;
+  font-weight: bold;
+}
+.prj-brc {
+  color: #000;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+}
+.prj-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  margin-left: 5px;
+}
+
+/* EDUCATION SECTION */
+.edu-spec {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+  margin: 10px 0 10px 0;
+}
+.amu-text {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 20px;
+  color: #fb6d3a;
+  margin: 10px 0 10px 0;
+}
+.my-ed {
+  padding-top: 40px;
+}
+
+/* SIDEBAR SECTION */
+.sidebar {
+  background-color: #1e2939;
+  width: 370px;
+  padding: 40px 0 0 0;
+}
+
+.contacts-section,
+.tech-sckill,
+.soft-skill {
+  margin: 50px 0 0 40px;
+}
+.sidebar-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+/* photo section */
+.img {
+  width: 370px;
+  height: 480px;
+  left: 40px;
+  top: 80px;
+}
+
+/* contact section */
+.contact-type {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+  margin-right: 7px;
+}
+.link {
+  color: #575f6b;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+}
+.lists {
+  padding-left: 18px;
+}
+
+.text-item-color {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+}
+
+.item,
+.color-text {
+  color: #fb6d3a;
+}
